@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+  }
+  
+  body {
+    font-family: "Actor", sans-serif;
+  
+    /* font-family: 'Adamina', serif; */
+    /* font-family: 'Poppins', sans-serif; */
+  }
+  
+  /* *********** Background Color *********** */
+  .bg-dark {
+    background-color: #0a0a0a;
+  }
+  
+  .bg-light {
+    background-color: rgb(245, 241, 241);
+  }
+  
+  /* *********** Font Settings *********** */
+  .text-secondary {
+    color: #ffac12;
+  }
+  
+  .title {
+    font-size: 3.2rem;
+  }
+  
+  .text-primary {
+  }
+  
+  .text-light {
+    color: rgb(153, 146, 146);
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #ffac12;
+  }
+  
+  /* *********** Button Settings *********** */
+  .btn {
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .btn.btn-primary {
+    background-color: #ffac12;
+    padding: 0.3rem 1rem;
+  }
+  
+  .btn.btn-secondary {
+    background-color: #0a0a0a;
+    padding: 0.3rem 1rem;
+    color: #fff;
+  }
+  
+  /* **************** Dividers *****************/
+  .divider {
+   
+  }
+
+
+  /* Navigation */
+
+  
