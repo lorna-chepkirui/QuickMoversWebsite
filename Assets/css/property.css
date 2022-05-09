@@ -1,6 +1,4 @@
-*{
-    /* border: 1px solid red; */
-}
+
 
 body {
   background-color: lightgray;
@@ -183,8 +181,6 @@ form button {
   margin-bottom: 1rem;
 }
 
-.inner-wrapper-4 .col {
-}
 
 .inner-wrapper-5 {
   width: 40rem;
@@ -244,9 +240,6 @@ form button {
   height: 17rem;
 }
 
-.inner-wrapper-6 .title {
-  /* padding: 5rem 0 10rem; */
-}
 
 .inner-wrapper-6 .listings-images.row img {
   max-width: 100%;
