@@ -2,17 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* border: 1px solid red; */
+    
   }
   
   body {
     font-family: "Actor", sans-serif;
   
-    /* font-family: 'Adamina', serif; */
-    /* font-family: 'Poppins', sans-serif; */
   }
   
-  /* *********** Background Color *********** */
+  
   .bg-dark {
     background-color: #0a0a0a;
   }
@@ -21,7 +19,7 @@
     background-color: rgb(245, 241, 241);
   }
   
-  /* *********** Font Settings *********** */
+  
   .text-secondary {
     color: #ffac12;
   }
@@ -50,7 +48,7 @@
     color: #ffac12;
   }
   
-  /* *********** Button Settings *********** */
+  
   .btn {
     border: 0;
     outline: none;
@@ -69,7 +67,7 @@
     color: #fff;
   }
   
-  /* **************** Dividers *****************/
+  
   .divider {
     height: 0.2rem;
     background: linear-gradient(
@@ -82,7 +80,7 @@
     width: 11rem;
   }
   
-  /* ********** container *********** */
+  
   .container > div {
     margin-bottom: 4rem;
   }
@@ -119,7 +117,7 @@
     font-size: 2rem;
   }
   
-  /* ********** Navigation *********** */
+  
   
   nav.nav-main {
     padding-top: 3rem;
@@ -137,7 +135,7 @@
     font-size: 1.2rem;
   }
   
-  /* ********** hustle section *********** */
+
   
   .hustle-section {
     display: flex;
@@ -176,7 +174,7 @@
     color: #ffac12;
   }
   
-  /* *********** Movers Section *********** */
+  
   .movers-section {
     padding: 5rem 0;
   }
