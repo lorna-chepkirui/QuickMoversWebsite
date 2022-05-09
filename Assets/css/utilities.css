@@ -30,9 +30,6 @@
     font-size: 3.2rem;
   }
   
-  .text-primary {
-  }
-  
   .text-light {
     color: rgb(153, 146, 146);
   }
@@ -69,13 +66,5 @@
     padding: 0.3rem 1rem;
     color: #fff;
   }
-  
-  /* **************** Dividers *****************/
-  .divider {
-   
-  }
-
-
-  /* Navigation */
 
   
