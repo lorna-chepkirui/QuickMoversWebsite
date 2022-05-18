@@ -342,10 +342,7 @@ form button {
     padding: 1rem 1.5rem;
   }
 
-  .footer div {
-    margin-bottom: 2rem;
-  }
-
+  
   .footer .footer-links {
     display: flex;
     justify-content: space-around;
